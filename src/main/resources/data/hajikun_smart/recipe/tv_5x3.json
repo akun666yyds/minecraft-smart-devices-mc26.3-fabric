@@ -1,9 +1,11 @@
 {
   "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "group": "hajikun_smart_tv",
   "key": {
     "G": "minecraft:glass",
-    "T": "hajikun_smart:tv_2x1",
-    "I": "minecraft:iron_ingot"
+    "I": "minecraft:iron_ingot",
+    "T": "hajikun_smart:tv_2x1"
   },
   "pattern": [
     "GGG",

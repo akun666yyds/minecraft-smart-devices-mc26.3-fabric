@@ -1,13 +1,18 @@
 {
   "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "group": "hajikun_smart_computer",
   "key": {
-    "#": "minecraft:obsidian",
+    "A": "minecraft:gold_ingot",
+    "G": "minecraft:glass",
+    "I": "minecraft:iron_ingot",
+    "O": "minecraft:obsidian",
     "R": "minecraft:redstone"
   },
   "pattern": [
-    "###",
-    "#R#",
-    " # "
+    "GAG",
+    "IRI",
+    "ORO"
   ],
   "result": {
     "id": "hajikun_smart:laptop"
