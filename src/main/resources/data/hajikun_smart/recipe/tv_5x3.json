@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "G": "minecraft:glass",
+    "T": "hajikun_smart:tv_2x1",
+    "I": "minecraft:iron_ingot"
+  },
+  "pattern": [
+    "GGG",
+    "GTG",
+    "III"
+  ],
+  "result": {
+    "id": "hajikun_smart:tv_5x3"
+  }
+}

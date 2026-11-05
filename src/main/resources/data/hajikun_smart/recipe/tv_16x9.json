@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "O": "minecraft:obsidian",
+    "T": "hajikun_smart:tv_5x3",
+    "I": "minecraft:iron_ingot"
+  },
+  "pattern": [
+    "OOO",
+    "OTO",
+    "III"
+  ],
+  "result": {
+    "id": "hajikun_smart:tv_16x9"
+  }
+}

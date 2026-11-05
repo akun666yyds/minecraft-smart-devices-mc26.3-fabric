@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "hajikun_smart",
+  "version": "${version}",
+  "name": "哈基坤的智能设备",
+  "description": "把台式机、笔记本与多尺寸智能电视带进 Minecraft 26.3。电脑是存档内持久化的独立虚拟机：首次放置设置设备名、分配不可更改的世界唯一 MAC，拥有文件系统、文档、终端与真实联网的浏览器；支持蓝牙配对、电脑互传与电视投屏。\n\n版权所有 © 2026 啊坤。",
+  "authors": [
+    "啊坤（Gmail: akun666yyds@gmail.com）"
+  ],
+  "license": "MIT",
+  "icon": "assets/hajikun_smart/icon.png",
+  "environment": "*",
+  "mixins": [
+    "hajikun_smart.mixins.json"
+  ],
+  "entrypoints": {
+    "main": [
+      "com.akun.hajikun.HajikunSmartMod"
+    ],
+    "client": [
+      "com.akun.hajikun.client.HajikunSmartClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "~26.3",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}

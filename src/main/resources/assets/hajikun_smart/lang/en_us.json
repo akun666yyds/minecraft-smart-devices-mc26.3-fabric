@@ -1,0 +1,14 @@
+{
+  "block.hajikun_smart.desktop_computer": "Desktop Computer",
+  "block.hajikun_smart.laptop": "Laptop",
+  "block.hajikun_smart.tv": "Smart TV",
+  "block.hajikun_smart.tripod": "Tripod",
+  "item.hajikun_smart.camera": "Camera",
+  "item.hajikun_smart.tripod": "Tripod",
+  "item.hajikun_smart.desktop_computer": "Desktop Computer",
+  "item.hajikun_smart.laptop": "Laptop",
+  "item.hajikun_smart.tv_2x1": "Smart TV (2x1)",
+  "item.hajikun_smart.tv_5x3": "Smart TV (5x3)",
+  "item.hajikun_smart.tv_16x9": "Smart TV (16x9)",
+  "itemGroup.hajikun_smart.devices": "Hajikun's Smart Devices"
+}

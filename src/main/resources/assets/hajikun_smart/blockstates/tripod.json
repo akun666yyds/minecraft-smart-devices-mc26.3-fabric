@@ -1,0 +1,36 @@
+{
+  "variants": {
+    "facing=north,mounted=false": {
+      "model": "hajikun_smart:block/tripod",
+      "y": 0
+    },
+    "facing=north,mounted=true": {
+      "model": "hajikun_smart:block/tripod_camera",
+      "y": 0
+    },
+    "facing=east,mounted=false": {
+      "model": "hajikun_smart:block/tripod",
+      "y": 90
+    },
+    "facing=east,mounted=true": {
+      "model": "hajikun_smart:block/tripod_camera",
+      "y": 90
+    },
+    "facing=south,mounted=false": {
+      "model": "hajikun_smart:block/tripod",
+      "y": 180
+    },
+    "facing=south,mounted=true": {
+      "model": "hajikun_smart:block/tripod_camera",
+      "y": 180
+    },
+    "facing=west,mounted=false": {
+      "model": "hajikun_smart:block/tripod",
+      "y": 270
+    },
+    "facing=west,mounted=true": {
+      "model": "hajikun_smart:block/tripod_camera",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "block.hajikun_smart.desktop_computer": "台式电脑",
+  "block.hajikun_smart.laptop": "笔记本电脑",
+  "block.hajikun_smart.tv": "智能电视",
+  "block.hajikun_smart.tripod": "三脚架",
+  "item.hajikun_smart.camera": "照相机",
+  "item.hajikun_smart.tripod": "三脚架",
+  "item.hajikun_smart.desktop_computer": "台式电脑",
+  "item.hajikun_smart.laptop": "笔记本电脑",
+  "item.hajikun_smart.tv_2x1": "智能电视（2×1）",
+  "item.hajikun_smart.tv_5x3": "智能电视（5×3）",
+  "item.hajikun_smart.tv_16x9": "智能电视（16×9）",
+  "itemGroup.hajikun_smart.devices": "哈基坤的智能设备"
+}

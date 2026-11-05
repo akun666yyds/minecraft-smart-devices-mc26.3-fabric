@@ -1,0 +1,77 @@
+# gradle
+
+.gradle/
+build/
+out/
+classes/
+
+# eclipse
+
+*.launch
+
+# idea
+
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# vscode
+
+.settings/
+.vscode/
+bin/
+.classpath
+.project
+
+# macos
+
+*.DS_Store
+
+# fabric
+
+run/
+
+# java
+
+hs_err_*.log
+replay_*.log
+*.hprof
+*.jfr
+
+# 本地素材与调试残留（仅忽略仓库根目录，不影响 src 内的贴图）
+
+/blueprints_src/
+/*.png
+*.zip
+*.7z
+char-weap.dict
+tools/__pycache__/
+
+# ---- 发布到公开仓库前的加固 ----
+
+# 命令行误操作留下的散落文件
+/-Out
+
+# 运行期隐私数据：浏览器 Cookie、虚拟机电源盘、IDE 里填写的模型 API Key 都写在这里
+run/
+config/
+
+# 凭据与密钥文件一律不入库
+.env
+.env.*
+*.pem
+*.p12
+*.jks
+*.key
+id_rsa*
+*.keystore
+credentials*
+secrets*
+*.cookies
+cookies.txt
+
+# 日志与调试残留
+*.log
+*.pyc
+__pycache__/
